@@ -3,7 +3,7 @@
 Seaborn
 Seaborn is a Python library built on top of Matplotlib, optimized to work with Pandas DataFrames. It was created by Michael Waskom and is known for its speed, ease of code writing, and high customization of graphs and visualizations.
 
-A
+
 
 Advantages of Seaborn: Seaborn is appreciated for its speed, the ease of writing code, and its high customization of graphs and visualizations.
 
